@@ -1,0 +1,8 @@
+services:
+  kotlin_hello_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: kotlin_hello_world
+    container_name: kotlin_hello_container
+    command: gradle run
