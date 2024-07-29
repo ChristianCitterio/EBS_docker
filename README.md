@@ -13,3 +13,5 @@
 :heavy_check_mark: 5.0 wymaganie 5 [Link do Commit](https://github.com/ChristianCitterio/EBS_docker/commit/df264854e72ab06f604d415a09b0b715f19300eb)
 
 Kod: [Dockerfile](https://github.com/ChristianCitterio/EBS_docker/blob/main/Dockerfile)
+
+Video: [video](https://www.youtube.com/watch?v=_B0RYph4E18)
